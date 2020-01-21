@@ -1,1 +1,8 @@
 # brewfile
+
+## install 
+
+```
+brew bundle
+```
+
